@@ -1,4 +1,5 @@
 # Restful-express
 
-how to 
+how to run  
 `npm i`
+Doeloe!
